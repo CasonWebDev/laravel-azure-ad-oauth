@@ -2,7 +2,7 @@
     "name": "cason-web-dev/laravel-azure-ad-oauth",
     "description": "Provides single-sign-on ability to Microsoft Azure Active Directory enabled apps.",
     "require": {
-        "laravel/framework": "^v9.0.0",
+        "laravel/framework": "^v10.0.0",
         "laravel/socialite": "^v5.9.0",
         "guzzlehttp/guzzle": "^v7.8.0"
     },
